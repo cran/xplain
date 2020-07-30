@@ -1,7 +1,10 @@
-b407973c12027530d410a8474877e3cc *DESCRIPTION
+0642e2922bbd961cde8ac2bd23e23c8d *DESCRIPTION
 8d03f9b74b1647fbeec7bb5dc1ead867 *NAMESPACE
-a79c1a33458e3f87f1910458db151f9e *R/xplain.r
-b04062a77192fe967cae2700d65df4ec *man/xplain-package.Rd
-57538ef28a829435fe22a7629e96f51d *man/xplain.Rd
-f4a3e442a5f110e018d2f9d99be4e2c6 *man/xplain.getcall.Rd
-f8779de31f4d4161b9a5b0566ab3928a *man/xplain.overview.Rd
+3b1b9c51fe58d63c94e7d2adfe8f8946 *R/xplain.r
+3dcbfd8bdb92ae7f002b5dd4ed4a5aa5 *README.md
+1f333e9be5e0388802251c91eb30eb84 *inst/example_lm.xml
+fda0f01c1a616e24a2a98d93625d7409 *inst/example_lm_foreach.xml
+ce0d48f8742e78b0ef6c8c576462ad27 *man/xplain-package.Rd
+9c00592b0f383e5d415d6f409c569e9f *man/xplain.Rd
+2f27f0e80674f09fb371254c52213572 *man/xplain.getcall.Rd
+07cc34c22bbb6d5fa12084f0d5533a54 *man/xplain.overview.Rd
